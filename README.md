@@ -1,3 +1,3 @@
-#about_me
+# about_me
 
 Thinkful First Assignment
